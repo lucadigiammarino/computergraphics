@@ -1,0 +1,7 @@
+﻿  doublyLinkedList.cpp
+c:\users\aless\desktop\igproject\linkedlist\doublylinkedlist.cpp(21): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\aless\desktop\igproject\linkedlist\doublylinkedlist.cpp(202): warning C4477: 'printf': con la stringa di formato '%lf' è necessario un argomento di tipo 'double', ma il tipo dell'argomento variadic 1 è 'float *'
+c:\users\aless\desktop\igproject\linkedlist\doublylinkedlist.cpp(99): warning C4715: 'searchColor': non tutti i percorsi di controllo restituiscono un valore
+c:\users\aless\desktop\igproject\linkedlist\doublylinkedlist.cpp(111): warning C4715: 'searchSize': non tutti i percorsi di controllo restituiscono un valore
+c:\users\aless\desktop\igproject\linkedlist\doublylinkedlist.cpp(163): warning C4715: 'destroy': non tutti i percorsi di controllo restituiscono un valore
+  linkedList.vcxproj -> C:\Users\aless\Desktop\IGPROJECT\x64\Debug\linkedList.lib

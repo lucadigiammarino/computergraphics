@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  raaMaths.cpp
+c:\users\aless\desktop\igproject\raamaths\raamaths.cpp(20): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+  raaMatrix.cpp
+c:\users\aless\desktop\igproject\raamaths\raamatrix.cpp(49): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\aless\desktop\igproject\raamaths\raamatrix.cpp(50): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\aless\desktop\igproject\raamaths\raamatrix.cpp(64): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\aless\desktop\igproject\raamaths\raamatrix.cpp(65): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\aless\desktop\igproject\raamaths\raamatrix.cpp(79): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\aless\desktop\igproject\raamaths\raamatrix.cpp(80): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+  raaVector.cpp
+c:\users\aless\desktop\igproject\raamaths\raavector.cpp(89): warning C4244: 'return': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\aless\desktop\igproject\raamaths\raavector.cpp(97): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+  Generazione del codice in corso...
+  raaMaths.vcxproj -> C:\Users\aless\Desktop\IGPROJECT\x64\Debug\raaMaths.lib
